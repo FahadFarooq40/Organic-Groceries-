@@ -1,4 +1,3 @@
-User
 # Organic Grocery
 
 🌱 Excited to share a sneak peek of our upcoming Organic Grocery App UI developed in Flutter! 📱 Check out the sleek screens:
