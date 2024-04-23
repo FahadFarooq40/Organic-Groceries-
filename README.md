@@ -1,3 +1,4 @@
+User
 # Organic Grocery
 
 🌱 Excited to share a sneak peek of our upcoming Organic Grocery App UI developed in Flutter! 📱 Check out the sleek screens:
@@ -10,11 +11,30 @@
 🔸 Brands: Discover values and offerings from organic brands.
 Stay tuned for a seamless organic shopping experience! 🛒✨ #Flutter #OrganicGroceryApp #UI
 
-| Screenshots of the application 📷 |
-|:--------------------------------:|
-| <img src="![localhost_60112_(iPhone 14 Pro Max)](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/c2d923fe-cfe7-4804-9d14-2ca5cafecc58)" width="200" height="400"> |
-| <img src="![localhost_60112_(iPhone 14 Pro Max) (1)](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/d82a46c5-e8b9-46d0-8263-81faaf988931)" width="200" height="400"> |
-| <img src="![localhost_60112_(iPhone 12 Pro)](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/30b253f7-0e24-4a53-93f4-6c06d925fef7)" width="200" height="400"> |
+## Screenshots
+
+Here are some screenshots of the application:
+
+| Splash Screen                           | Home Screen                     | 
+|:--------------------------------------:|:--------------------------------------:|
+| ![Screenshot 1](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/b3918511-879b-4aca-85e6-f7d14ebe8489) | ![Screenshot 2](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/79992116-f4d5-4d0e-bd61-7de6c3592a13) |
+
+| Details                                 | Alert                           | 
+|:--------------------------------------:|:--------------------------------------:|
+| ![Screenshot 3](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/f83fd0fb-7480-495f-8e5b-c8b76b9edeb6) | ![Screenshot 4](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/5a7904f5-fcd0-420b-8d2d-ef42678d48c7) |
+
+| Braand Category                                  | Profile                           | 
+|:--------------------------------------:|:--------------------------------------:|
+| ![Screenshot 5](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/a78ea2a3-37b6-4b04-9f1b-f1dfbe5aaef4) | ![Screenshot 6](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/ff9b0b5f-20c2-4942-9456-1c74aa51f211) |
+
+| Product Category                                  | Card Screens                           | 
+|:--------------------------------------:|:--------------------------------------:|
+| ![Screenshot 7](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/a4a19c0e-d257-46e5-9fed-e5ea3655bd1d) | ![Screenshot 8](https://github.com/FahadFarooq40/Organic-Groceries-/assets/104043766/a958819f-6bb6-4bbf-8903-57d99cbf40d9) |
+
+THANK YOU SO MUCH 😍❤️
+
+
+
 
 
 
